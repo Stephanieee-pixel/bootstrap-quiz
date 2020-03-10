@@ -11,3 +11,16 @@ h2{
 .green{
   background-color: #2CA58D;
 }
+.contact-title{
+  text-align: center;
+  font-size: 45px;
+}
+p{
+  text-align: center;
+  font-size: 35px;
+}
+button{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
